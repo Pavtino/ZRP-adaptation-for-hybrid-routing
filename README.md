@@ -32,7 +32,7 @@ Netbeans is an integrated development environment (IDE) developed by Sun
 microsystem. Its use is justified by its ease of installation, use and
 configuration.     
 
-###Implementation of the routing system
+### Implementation of the routing system
 We carried out our development in two phases. The first phase consisted
 in the actual implementation of our system. On the other hand, the second phase consists
 just in the development of a chat application. The chat application was developed
