@@ -1,4 +1,4 @@
-# ZRP-adaptation-for-hybrid-routing
+# ZRP-adaptation-for-hybrid-routing 
 deployment of an ad hoc wireless network based on lightweight equipment wifi and bluetooth: adaptation of a routing and autoconfiguration protocol
 --------------------------------------------------------------------------------
 ##                ZRP-adaptation-for-hybrid-routing
@@ -14,7 +14,8 @@ deployment of an ad hoc wireless network based on lightweight equipment wifi and
     several steps ranging from the radiocommunication interfaces that will be used, the development tools and the test environment. 
     The most important thing for us at the end of the tests is to know that the system, once functional, effectively allows 
     the deployment of applications for communication in an ad hoc network.
-
+    
+NB. This project was build on 2011
 
 ## 2. Test - Choice of wireless communication interface
 
