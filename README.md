@@ -27,6 +27,8 @@ NB. This project was build on 2011
    As a development kit, we used the JDK 1.6, for the Java programming language. We work more specifically with J2ME which 
    is the technology available for mobile development in Java with the JDK1.6. We chose the Java language because it is 
    multiplatform and it allows us to maintain our system independently of the platform on which it will run.
+   <br/>
+   <img src="network.png"></img>
 
 ### Development Environment
 Netbeans is an integrated development environment (IDE) developed by Sun
@@ -59,4 +61,15 @@ since in this virtual environment, the packets sent always arrive at their desti
  These tests were less conclusive compared to the tests done on the emulator. We were able to take screenshots of the system on 
  the two Nokia C3 phones. Figure  shows the home page of the chat application, which has a set of menus. To send a message, 
  you must choose the send message menu. To  have a view of the network, you can choose the menu rescan equipment .
+<br/>
+<img src="accueil.png"></img>
+<br/>
+<img src="select_node.png"></img>
+<br/>
+<img src="envoi.png"></img>
+<br/>
+<img src="reception.png"></img>
+<br/>
+<img src="receiver_to_sender.png"></img>
+<br/>
 
